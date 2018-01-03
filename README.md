@@ -9,8 +9,8 @@ Renames folders and files with the correct course code prefix in the parent fold
 Dependencies
 =============
 
-*Python 3.4+
-*This script only works for windows operating systems
+* Python 3.4+
+* This script only works for windows operating systems
 
 Author
 =======
